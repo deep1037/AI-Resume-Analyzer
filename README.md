@@ -396,4 +396,5 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for d
   Built with ⚛️ React, 🟢 Node.js, and 🤖 AI · © 2026 AI Resume Analyzer
 </p>
 #   A I - R e s u m e - A n a l y z e r  
+ #   A I - R e s u m e - A n a l y z e r  
  
